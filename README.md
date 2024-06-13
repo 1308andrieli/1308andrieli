@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**1308andrieli/1308andrieli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**seja bem vindo ao meu perfil**🫀 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  ![](https://media.tenor.com/HXBdWaw-3lIAAAAM/mickey-cococ.gif)
+https://media.tenor.com/HXBdWaw-3lIAAAAM/mickey-cococ.gif
